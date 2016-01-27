@@ -2,178 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://0.0.0.0:6789/</loc>
+    <loc>http://csuarez.me/</loc>
     <lastmod>2016-01-18T22:27:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/about/</loc>
+    <loc>http://csuarez.me/about/</loc>
     <lastmod>2016-01-18T22:27:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/aloe-journal-image-mining/</loc>
+    <loc>http://csuarez.me/publication/aloe-journal-image-mining/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/performance-image-mining/</loc>
+    <loc>http://csuarez.me/publication/performance-image-mining/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/imed-mama/</loc>
+    <loc>http://csuarez.me/publication/imed-mama/</loc>
     <lastmod>2015-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/angularjs-phpcaceres/</loc>
+    <loc>http://csuarez.me/talk/angularjs-phpcaceres/</loc>
     <lastmod>2015-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/ansible-theevnt/</loc>
+    <loc>http://csuarez.me/talk/ansible-theevnt/</loc>
     <lastmod>2015-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/hadoop-juc/</loc>
+    <loc>http://csuarez.me/talk/hadoop-juc/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/dataflow-ibergrid/</loc>
+    <loc>http://csuarez.me/publication/dataflow-ibergrid/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/aloe-ibergrid/</loc>
+    <loc>http://csuarez.me/publication/aloe-ibergrid/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/scrum-ceta/</loc>
+    <loc>http://csuarez.me/talk/scrum-ceta/</loc>
     <lastmod>2014-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/git-ceta/</loc>
+    <loc>http://csuarez.me/talk/git-ceta/</loc>
     <lastmod>2014-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/cad-healthcom/</loc>
+    <loc>http://csuarez.me/talk/cad-healthcom/</loc>
     <lastmod>2013-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/cad-healthcom2013/</loc>
+    <loc>http://csuarez.me/publication/cad-healthcom2013/</loc>
     <lastmod>2013-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/health-tic/</loc>
+    <loc>http://csuarez.me/talk/health-tic/</loc>
     <lastmod>2013-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/breast-iwwbio/</loc>
+    <loc>http://csuarez.me/talk/breast-iwwbio/</loc>
     <lastmod>2013-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/breast-iwbbio/</loc>
+    <loc>http://csuarez.me/publication/breast-iwbbio/</loc>
     <lastmod>2013-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/gridmed-ceta/</loc>
+    <loc>http://csuarez.me/talk/gridmed-ceta/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/clarabox-gisela/</loc>
+    <loc>http://csuarez.me/publication/clarabox-gisela/</loc>
     <lastmod>2012-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/portlet-gisela/</loc>
+    <loc>http://csuarez.me/publication/portlet-gisela/</loc>
     <lastmod>2012-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/imed-gisela/</loc>
+    <loc>http://csuarez.me/publication/imed-gisela/</loc>
     <lastmod>2012-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/gridcake-egi/</loc>
+    <loc>http://csuarez.me/publication/gridcake-egi/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/ci-desymfony/</loc>
+    <loc>http://csuarez.me/talk/ci-desymfony/</loc>
     <lastmod>2012-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/gridcake-egi/</loc>
+    <loc>http://csuarez.me/talk/gridcake-egi/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/bcdr-experimental-mechanics/</loc>
+    <loc>http://csuarez.me/publication/bcdr-experimental-mechanics/</loc>
     <lastmod>2012-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/miwad-experimental-mechanics/</loc>
+    <loc>http://csuarez.me/publication/miwad-experimental-mechanics/</loc>
     <lastmod>2012-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/symfony2-theevnt/</loc>
+    <loc>http://csuarez.me/talk/symfony2-theevnt/</loc>
     <lastmod>2011-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/discovering-journal-medical-systems/</loc>
+    <loc>http://csuarez.me/publication/discovering-journal-medical-systems/</loc>
     <lastmod>2011-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/talk/ceta-desymfony/</loc>
+    <loc>http://csuarez.me/talk/ceta-desymfony/</loc>
     <lastmod>2010-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/cardiogrid-en/</loc>
+    <loc>http://csuarez.me/publication/cardiogrid-en/</loc>
     <lastmod>2009-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/publication/cardiogrid-es/</loc>
+    <loc>http://csuarez.me/publication/cardiogrid-es/</loc>
     <lastmod>2009-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/project/suicidebystar/</loc>
+    <loc>http://csuarez.me/project/suicidebystar/</loc>
     <lastmod>2016-01-05T19:20:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/project/beet/</loc>
+    <loc>http://csuarez.me/project/beet/</loc>
     <lastmod>2015-12-23T19:41:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/project/gridcake/</loc>
+    <loc>http://csuarez.me/project/gridcake/</loc>
     <lastmod>2016-01-05T19:19:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://0.0.0.0:6789/project/other-projects/</loc>
+    <loc>http://csuarez.me/project/other-projects/</loc>
     <lastmod>2016-01-05T19:20:05+01:00</lastmod>
   </url>
   
