@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on César Suárez, Software Engineer</title>
+    <link>http://0.0.0.0:6789/talk/</link>
+    <description>Recent content in Talks on César Suárez, Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://0.0.0.0:6789/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AngularJS en riguroso directo</title>
+      <link>http://0.0.0.0:6789/talk/angularjs-phpcaceres/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/angularjs-phpcaceres/</guid>
+      <description>&lt;p&gt;No slides for this talk, it was a live programming session.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatización de tareas con Ansible</title>
+      <link>http://0.0.0.0:6789/talk/ansible-theevnt/</link>
+      <pubDate>Sat, 14 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/ansible-theevnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procesando datos con Hadoop: MapReduce y YARN</title>
+      <link>http://0.0.0.0:6789/talk/hadoop-juc/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/hadoop-juc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducción a SCRUM</title>
+      <link>http://0.0.0.0:6789/talk/scrum-ceta/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/scrum-ceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducción a GIT</title>
+      <link>http://0.0.0.0:6789/talk/git-ceta/</link>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/git-ceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using CAD Systems and E-Learning in radiologist training</title>
+      <link>http://0.0.0.0:6789/talk/cad-healthcom/</link>
+      <pubDate>Sun, 27 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/cad-healthcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CETA-CIEMAT: Salud &#43; Investigación</title>
+      <link>http://0.0.0.0:6789/talk/health-tic/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/health-tic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the breast cancer diagnosis using digital repositories</title>
+      <link>http://0.0.0.0:6789/talk/breast-iwwbio/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/breast-iwwbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridMed: Exploiting e-infrastructures for research in breast cancer CAD methods</title>
+      <link>http://0.0.0.0:6789/talk/gridmed-ceta/</link>
+      <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/gridmed-ceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integración Continua y Symfony2</title>
+      <link>http://0.0.0.0:6789/talk/ci-desymfony/</link>
+      <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/ci-desymfony/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;You can check this talk in &lt;a href=&#34;https://www.youtube.com/watch?v=BpUfoKzrL0I&#34;&gt;Youtube&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gridCake &amp; gridCamp: Making the Grid easier</title>
+      <link>http://0.0.0.0:6789/talk/gridcake-egi/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/gridcake-egi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symfony2: PHP no está muerto, estaba tomando cañas</title>
+      <link>http://0.0.0.0:6789/talk/symfony2-theevnt/</link>
+      <pubDate>Sat, 26 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/symfony2-theevnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symfony en la gestión de un centro de computación avanzada</title>
+      <link>http://0.0.0.0:6789/talk/ceta-desymfony/</link>
+      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/ceta-desymfony/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>César Suárez, Software Engineer</title>
+    <link>http://0.0.0.0:6789/</link>
+    <description>Recent content on César Suárez, Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Jan 2016 22:27:45 +0100</lastBuildDate>
+    <atom:link href="http://0.0.0.0:6789/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://0.0.0.0:6789/about/</link>
+      <pubDate>Mon, 18 Jan 2016 22:27:45 +0100</pubDate>
+      
+      <guid>http://0.0.0.0:6789/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALOE platform: an overview of a service-oriented architecture for research in breast cancer diagnosis supported by e-infrastructures</title>
+      <link>http://0.0.0.0:6789/publication/aloe-journal-image-mining/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/aloe-journal-image-mining/</guid>
+      <description>&lt;p&gt;This article presents an overview of the ALOE platform. ALOE provides a service-oriented architecture aimed at the research in the early detection of breast cancer diagnosis. The development of the ALOE platform is carried out by collaboration among CETA-CIEMAT, INEGI, FMUP-HSJ and UA. ALOE supports two research lines in breast cancer diagnosis: the development of well performing computer aided diagnosis (CAD) systems and the development of new tools-based on e-learning techniques to improve radiologists training. All ALOE modules are designed to work as a whole system but can be used individually in other systems and expose RESTful interfaces to be exploited by third party systems. ALOE components make use of e-Infrastructure resources to accomplish their tasks. The final objective of this work is to provide a reference platform for researchers, specialists, and students in breast cancer diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of machine learning algorithms for automated diagnosis using a dataflow-based approach on the grid</title>
+      <link>http://0.0.0.0:6789/publication/performance-image-mining/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/performance-image-mining/</guid>
+      <description>&lt;p&gt;Machine learning and imaging analytics are major algorithmic components of the software used by medical practitioners in the diagnosis and treatment of diseases. Whether employed by computer aided diagnosis (CADx) or content-based image retrieval (CBIR) tools, the accuracy and relevance of the results to the practitioner are paramount to the success of any such application. In order to improve on the existing results researchers often find themselves in the need to explore various approaches and methodologies, often using very large datasets and multiple sources of information. Each of these trials can, by itself, be a very time-consuming operation. One tried and true strategy to speed up operations is the use of a distributed computing platform (delivering the computational load to a number of machines). This raises a set of problems which are often orthogonal to a researcher&amp;rsquo;s interest such as which algorithmic implementations scale or how to distribute data and tasks on the grid. In this article, we present a framework that empowers researchers to quickly design sets of tests, schedule their execution and have them automatically allocated to a grid environment for execution. We describe the design and implementation of the solution, and present as an example an experiment concerning the classification of mammography segmentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El proyecto IMED: Investigando en métodos de diagnóstico asistido del cáncer de mama</title>
+      <link>http://0.0.0.0:6789/publication/imed-mama/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/imed-mama/</guid>
+      <description>&lt;p&gt;Accepted communication for the 2nd Spanish Congress of the Breast, Madrid October 22-24th.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AngularJS en riguroso directo</title>
+      <link>http://0.0.0.0:6789/talk/angularjs-phpcaceres/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/angularjs-phpcaceres/</guid>
+      <description>&lt;p&gt;No slides for this talk, it was a live programming session.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatización de tareas con Ansible</title>
+      <link>http://0.0.0.0:6789/talk/ansible-theevnt/</link>
+      <pubDate>Sat, 14 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/ansible-theevnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procesando datos con Hadoop: MapReduce y YARN</title>
+      <link>http://0.0.0.0:6789/talk/hadoop-juc/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/hadoop-juc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dataflow-based approach to the design and distribution of medical image analytics</title>
+      <link>http://0.0.0.0:6789/publication/dataflow-ibergrid/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/dataflow-ibergrid/</guid>
+      <description>&lt;p&gt;Machine Learning and imaging analytics are major algorithmic com-ponents of the software used by medical practitioners in the diagnosis and treatment of diseases. Whether employed by CADx (Computer Aided Diagnosis) or CBIR (Content Based Image Retrieval) tools, the accuracy and relevance of the results to the practitioner are paramount to the success of any such appli-cation. In order to improve on the existing results researchers often find themselves in the need to explore various approaches and methodologies, often using very large datasets and multiple sources of information. Each of these trials can, by itself, be a very time-consuming operation. One tried and true strategy to speed up operations is the use of a distributed computing platform (delivering the computational load to a number of machines). This raises a set of problems which are often orthogonal to a researcher&amp;rsquo;s interest such as which algorithmic implementations scale or how to distribute data and tasks on the grid. In this article we present a framework that empowers researchers to quickly design sets of tests, schedule their execution and have them automatically dis-tributed on a grid environment. We describe the design and implementation of the solution, and present as an example an experiment concerning the classification of mammography segmentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALOE platform: An overview of a service-oriented architecture for research in breast cancer diagnosis supported by e-infrastructures</title>
+      <link>http://0.0.0.0:6789/publication/aloe-ibergrid/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/aloe-ibergrid/</guid>
+      <description>&lt;p&gt;This article presents an overview of the ALOE platform. ALOE provides a service-oriented architecture aimed at the research in the early detection of breast cancer diagnosis. The development of the ALOE platform is carried out by collaboration among CETA-CIEMAT, INEGI, FMUP-HSJ and UA. ALOE supports two research lines in breast cancer diagnosis: the development of well-performing Computer Aided Diagnosis (CAD) systems and the development of new tools based on e-Learning techniques to improve radiologists training. All ALOE modules are designed to work as a whole system but can be used individually in other systems and expose RESTful interfaces to be exploited by third party systems. ALOE components make use of e-Infrastructure resources to accomplish their tasks. The final objective of this work is to provide a reference platform for researchers, specialists, and students in breast cancer diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a SCRUM</title>
+      <link>http://0.0.0.0:6789/talk/scrum-ceta/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/scrum-ceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducción a GIT</title>
+      <link>http://0.0.0.0:6789/talk/git-ceta/</link>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/git-ceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using CAD Systems and E-Learning in radiologist training</title>
+      <link>http://0.0.0.0:6789/talk/cad-healthcom/</link>
+      <pubDate>Sun, 27 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/cad-healthcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using CAD systems and e-Learning in radiologists training</title>
+      <link>http://0.0.0.0:6789/publication/cad-healthcom2013/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/publication/cad-healthcom2013/</guid>
+      <description>&lt;p&gt;Breast cancer is one of the most diagnosed types of cancer. Early detection of breast cancer is the best practice to reduce its high mortality rate. Double reading is a common practice to avoid missed cancer cases during the lecture of mammograms. Due to the high cost of this technique and the lack of certified radiologists, computer-aided diagnosis systems have become very popular in the last decade. However, this technique is not perfect, and has some significant disadvantages, like higher recall rates.&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, e-Learning (the use of information and communication technologies for learning or ICTs) during medical education has been demonstrated to be a useful resource in the training of new physicians. In radiology is typical to use anonymized cases to train new radiologists. This practice perfectly fits with some e-Learning practices, based on the use of simulated or real cases combined with auto-evaluation tools. The advantages and disadvantages of CAD systems as a basis to develop self-assessment e-Learning tools are discussed in this work. Some CAD system problems like high recall rates are less important in education than in the clinical practice, but the higher rate of false-positives could be a problem, especially in the use of CAD systems by inexperienced radiologists.&lt;/p&gt;
+
+&lt;p&gt;With these topics in mind, the IMED project (collaboration among CETA-CIEMAT, INEGI and FMUP-HSJ created to find new ways to improve breast cancer diagnosis) is enhancing e-Learning tools with CAD systems. This development is based on three tools developed by the project: (1) BCDR, a repository which stores clinical data and mammograms related to breast cancer studies, (2) MIWAD, a workstation with CAD features that helps doctors during the breast cancer diagnosis and (3) a set of Machine Learning Classifiers (MLCs) integrated in MIWAD and trained with BCDR data, with the ability to classify abnormalities in mammograms.&lt;/p&gt;
+
+&lt;p&gt;This new training tool is called Aloe, and it is in its early stages of development. It is divided in a REST service and in a web frontend which will implement a workflow that will allow students to auto-evaluate their skills reading mammograms. An alpha version will be released soon to obtain early feedback from users, in order to check the usefulness of CAD systems in e-Learning methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CETA-CIEMAT: Salud &#43; Investigación</title>
+      <link>http://0.0.0.0:6789/talk/health-tic/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/health-tic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the breast cancer diagnosis using digital repositories</title>
+      <link>http://0.0.0.0:6789/talk/breast-iwwbio/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:6789/talk/breast-iwwbio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
