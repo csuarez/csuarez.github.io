@@ -6,8 +6,26 @@
     <description>Recent content on César Suárez, Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Jan 2016 22:27:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://csuarez.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PHP Episodio VII: El Despertar de la Fuerza</title>
+      <link>http://csuarez.me/talk/php7-phpcaceres/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://csuarez.me/talk/php7-phpcaceres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB en la práctica: PyMongo &#43; Flask &#43; AngularJS</title>
+      <link>http://csuarez.me/talk/mongodb-juc/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://csuarez.me/talk/mongodb-juc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -137,24 +155,6 @@
 
 &lt;p&gt;This new training tool is called Aloe, and it is in its early stages of development. It is divided in a REST service and in a web frontend which will implement a workflow that will allow students to auto-evaluate their skills reading mammograms. An alpha version will be released soon to obtain early feedback from users, in order to check the usefulness of CAD systems in e-Learning methods.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>CETA-CIEMAT: Salud &#43; Investigación</title>
-      <link>http://csuarez.me/talk/health-tic/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://csuarez.me/talk/health-tic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving the breast cancer diagnosis using digital repositories</title>
-      <link>http://csuarez.me/talk/breast-iwwbio/</link>
-      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://csuarez.me/talk/breast-iwwbio/</guid>
-      <description></description>
     </item>
     
   </channel>
