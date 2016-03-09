@@ -15,7 +15,7 @@
       <pubDate>Tue, 05 Jan 2016 19:20:05 +0100</pubDate>
       
       <guid>http://csuarez.me/project/suicidebystar/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;SuicideByStar&lt;/strong&gt; is a webzine created in 2007 by a group of friends with the aim of promoting underground music. We talk about any kind of music we think could be interesting including metal, punk, electronic, rock and almost any kind of experimental music. Over the years we have created a &lt;strong&gt;forum&lt;/strong&gt; which gathers a small, but strong, community which loves to talk about music and stupid things. Also, in 2015 we started an almost-monthly &lt;strong&gt;podcast&lt;/strong&gt; where we speak about the latest releases of underground music and other related topics. Also we are a non-profit association.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;SuicideByStar&lt;/strong&gt; is a webzine created in 2007 by a group of friends with the aim of promoting underground music. We talk about any kind of music we think could be interesting including metal, punk, electronic, rock and almost any kind of experimental music. Over the years we have created a &lt;strong&gt;forum&lt;/strong&gt; that gathers a small, but strong, community which loves to talk about music and stupid things. Also, in 2015 we started an almost-monthly &lt;strong&gt;podcast&lt;/strong&gt; where we speak about the latest releases of underground music and other related topics. Also we are a non-profit association.&lt;/p&gt;
 
 &lt;p&gt;I am a &lt;strong&gt;founder member&lt;/strong&gt; of SuicideByStar, and since 2007 I &lt;strong&gt;develop, design and manage&lt;/strong&gt; the web (built with Wordpress and PHPBB3). Of course, I also write reviews and articles. The current template has been develop totally by me (except the logo) almost from scratch using Roots (a previous version of &lt;a href=&#34;https://roots.io/sage/&#34;&gt;Sage&lt;/a&gt;), Bootstrap 3, Grunt and LESS.&lt;/p&gt;
 
@@ -29,7 +29,7 @@
       <pubDate>Wed, 23 Dec 2015 19:41:28 +0100</pubDate>
       
       <guid>http://csuarez.me/project/beet/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;B.E.E.T.&lt;/strong&gt; (&lt;strong&gt;B&lt;/strong&gt;ot &lt;strong&gt;E&lt;/strong&gt;xtremeño de &lt;strong&gt;E&lt;/strong&gt;ventos &lt;strong&gt;T&lt;/strong&gt;ecnológicos) is a project created to promote tech events in Extremadura. It gathers information about them and display them in &lt;a href=&#34;http://beet.tech&#34;&gt;beet.tech&lt;/a&gt;. Also it schedules retweets at &lt;a href=&#34;http://www.twitter.com/botbeet&#34;&gt;@botbeet&lt;/a&gt; to promote them.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;B.E.E.T.&lt;/strong&gt; (&lt;strong&gt;B&lt;/strong&gt;ot &lt;strong&gt;E&lt;/strong&gt;xtremeño de &lt;strong&gt;E&lt;/strong&gt;ventos &lt;strong&gt;T&lt;/strong&gt;ecnológicos) is a project created to promote tech events in Extremadura. It gathers information about new events in &lt;a href=&#34;http://beet.tech&#34;&gt;beet.tech&lt;/a&gt;, to promote them automatically in Twitter at &lt;a href=&#34;http://www.twitter.com/beet_tech&#34;&gt;@beet_tech&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Why this? Extremadura is a big region but not very populated and it lacks of a hub (physical or digital) which joins the activity organized by a wide range of actors (university, local development groups, foundations, etc.). B.E.E.T. tries to help them to advertise their activities.&lt;/p&gt;
 </description>
@@ -41,13 +41,11 @@
       <pubDate>Tue, 05 Jan 2016 19:19:54 +0100</pubDate>
       
       <guid>http://csuarez.me/project/gridcake/</guid>
-      <description>&lt;p&gt;gridCake is a gLite 3.2 compatible Java library.  It is developed using jLite and some of the gLite &lt;em&gt;official&lt;/em&gt; libraries and its main objective is to hide the complexities of the Grid.&lt;/p&gt;
-
-&lt;p&gt;It is able to work with the core Grid services:&lt;/p&gt;
+      <description>&lt;p&gt;gridCake is a gLite 3.2 compatible Java library.  It has been developed using jLite and some of the gLite &lt;em&gt;official&lt;/em&gt; libraries. The library is focused on hiding the complexities of the Grid, and it supports the core Grid services:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Work management (WMS)&lt;/li&gt;
-&lt;li&gt;Storage elementts (gridFTP)&lt;/li&gt;
+&lt;li&gt;Storage elements (gridFTP)&lt;/li&gt;
 &lt;li&gt;Authentication (VMS)&lt;/li&gt;
 &lt;li&gt;Credential delegation (MyProxy)&lt;/li&gt;
 &lt;/ul&gt;
