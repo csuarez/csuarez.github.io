@@ -6,8 +6,19 @@
     <description>Recent content in Talks on César Suárez, Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://csuarez.me/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://csuarez.me/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symfony &amp; Concurrencia</title>
+      <link>http://csuarez.me/talk/concurrency-desymfony/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://csuarez.me/talk/concurrency-desymfony/</guid>
+      <description>You can check this talk in Youtube.</description>
+    </item>
     
     <item>
       <title>PHP Episodio VII: El Despertar de la Fuerza</title>
@@ -33,8 +44,7 @@
       <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://csuarez.me/talk/angularjs-phpcaceres/</guid>
-      <description>&lt;p&gt;No slides for this talk, it was a live programming session.&lt;/p&gt;
-</description>
+      <description>No slides for this talk, it was a live programming session.</description>
     </item>
     
     <item>
@@ -115,8 +125,7 @@
       <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://csuarez.me/talk/ci-desymfony/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;You can check this talk in &lt;a href=&#34;https://www.youtube.com/watch?v=BpUfoKzrL0I&#34;&gt;Youtube&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>You can check this talk in Youtube.</description>
     </item>
     
     <item>

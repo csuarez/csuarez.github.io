@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://csuarez.me/</loc>
-    <lastmod>2016-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://csuarez.me/project/suicidebystar/</loc>
+    <lastmod>2016-01-05T19:20:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/project/hate-love/</loc>
+    <lastmod>2017-06-10T19:41:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/project/mana-calculator/</loc>
+    <lastmod>2016-01-05T19:19:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/project/gridcake/</loc>
+    <lastmod>2016-01-05T19:19:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/project/beet/</loc>
+    <lastmod>2015-12-23T19:41:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/project/other-projects/</loc>
+    <lastmod>2016-01-05T19:20:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/talk/concurrency-desymfony/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,23 +198,37 @@
   </url>
   
   <url>
-    <loc>http://csuarez.me/project/suicidebystar/</loc>
+    <loc>http://csuarez.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/</loc>
     <lastmod>2016-01-05T19:20:05+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://csuarez.me/project/beet/</loc>
-    <lastmod>2015-12-23T19:41:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://csuarez.me/project/gridcake/</loc>
-    <lastmod>2016-01-05T19:19:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://csuarez.me/project/other-projects/</loc>
+    <loc>http://csuarez.me/project/</loc>
     <lastmod>2016-01-05T19:20:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/publication/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://csuarez.me/talk/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
